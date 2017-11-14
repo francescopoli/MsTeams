@@ -19,7 +19,9 @@
         Create User Logon Policy, the script will install TEAMS from a net share, or
         cache the binaries locally before installation. 
         With /silent option installation will happen in background, with an icon ending 
-        on user desktop
+        on user desktop.
+        Note: install events created in the Windows Event log, under the MSIInstaller source,
+        altough the package does not use the MSI technology.
 
         Download binaries from here and drop them on the network share.
         Teams download page
