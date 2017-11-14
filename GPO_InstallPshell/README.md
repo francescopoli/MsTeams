@@ -7,8 +7,12 @@ This is a sample script to install Microsoft TEAMS using Group Policy Deployment
 
 Open the Group Policy Management tool:
     ![alt text][GPOManagement]
+<<<<<<< HEAD
     [GPOManagementogo]:<https://github.com/francescopoli/MsTeams/raw/master/GPO_InstallPshell/Images/GPOManagement.png> "GPO Management"
 [![IMAGE ALT TEXT HERE](https://github.com/francescopoli/MsTeams/raw/master/GPO_InstallPshell/Images/GPOManagement.png)](https://github.com/francescopoli/MsTeams/raw/master/GPO_InstallPshell/Images/GPOManagement.png)
+=======
+    [GPOManagementogo]:https://github.com/francescopoli/MsTeams/raw/master/GPO_InstallPshell/Images/GPOManagement.png "GPO Management"
+>>>>>>> 6a83bf6f35b7b452da390ae358cae8487d880dea
 
 Create a New Group Policy and assing it to the Users OU:
     ![alt text][NewGPO]
