@@ -15,8 +15,8 @@ This is a sample script to install Microsoft TEAMS using Group Policy Deployment
 ![New User logon script](https://github.com/francescopoli/MsTeams/raw/master/GPO_InstallPshell/Images/ScriptLogonPolicy.PNG)
 
 #### Create the New PowerShell Script
-Click Add and then Browse in the Edit script window.
-Copy the InstallTeams.ps1 script in the proposed folder
+Click Add and then Browse in the Edit script window.<br>
+Copy the InstallTeams.ps1 script in the proposed folder<br>
 Add the -SourcePath parameter if you haven`t alread changed it in the script:
 ![Powershell logon script](https://github.com/francescopoli/MsTeams/raw/master/GPO_InstallPshell/Images/AddNewPowershellScript.PNG)
 
