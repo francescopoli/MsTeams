@@ -24,7 +24,11 @@ Add the -SourcePath parameter if you haven`t alread changed it in the script:
 <br>
 
 ## InstallTeams script
-is all in the script comments:
+
+InstallTeams.ps1 -> check local file system for Teams deployment (if already installed)
+InstallTeamsRegTest.ps1 -> check registry key for Teams deployment (if already installed)
+
+Is all in the script comments:
 
 .DESCRIPTION
 
@@ -41,6 +45,7 @@ is all in the script comments:
         https://teams.microsoft.com/downloads
         
         Author: Francesco Poli fpoli@microsoft.com
+
 			
 .PARAMETER $SourcePath
 
